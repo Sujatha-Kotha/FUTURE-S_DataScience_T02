@@ -47,7 +47,7 @@ Data cleaning and transformation were done using Microsoft Excel and Power BI Qu
 
 •	Creating campaign and ad-level summary tables
 ________________________________________
-#💡 Key Insights
+💡 Key Insights
 
 •	Ads with higher engagement rates also tended to achieve better ROI.
 
@@ -57,7 +57,7 @@ ________________________________________
 
 •	Certain campaigns achieved high impressions but low conversion, indicating room for targeting optimization.
 ________________________________________
-#📈 Dashboard Features
+📈 Dashboard Features
 
 The Power BI Dashboard provides an interactive visualization of ad campaign metrics:
 
@@ -71,7 +71,7 @@ The Power BI Dashboard provides an interactive visualization of ad campaign metr
 
 •	Filter Options for campaign, date range, and ad type
 ________________________________________
-#🧠 Skills Gained
+🧠 Skills Gained
 
 •	Marketing Analytics & Campaign Evaluation
 
@@ -83,7 +83,7 @@ ________________________________________
 ________________________________________
 
 
-#🛠️ Tools & Technologies Used
+🛠️ Tools & Technologies Used
 
 Tool	               Purpose
 Power BI	     To build professional interactive dashboards
